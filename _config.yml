@@ -1,0 +1,14 @@
+title: Raymond Nagro
+email: raynagro1@gmail.com
+baseurl: ""
+url: "http://raymond.nagro.com"
+twitter_username: raynagro
+github_username:  raynagro
+permalink: none
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rogue
+  hard_wrap: false
